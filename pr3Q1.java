@@ -1,7 +1,6 @@
 import java.awt.Button;
 import java.awt.Frame;
 import java.awt.GridLayout;
-import java.awt.Label;
 
 public class pr3Q1 extends Frame {
 
