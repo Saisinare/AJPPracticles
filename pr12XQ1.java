@@ -7,6 +7,7 @@ public class pr12XQ1 extends JFrame{
     public pr12XQ1(){
         JPasswordField password = new JPasswordField();
         password.setEchoChar('#');
+        password.setColumns(10);
         add(password);
         setVisible(true);
         setLayout(new FlowLayout());
